@@ -1,6 +1,5 @@
 import TodoInput from "./components/TodoInput"
 import TodoList from "./components/TodoList"
-import TodoCard from "./components/TodoCard"
 import { useState, useEffect } from "react"
 
 function App() {
